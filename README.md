@@ -1,1 +1,10 @@
 # pandas-challenge
+
+After my appointment as the Chief Data Scientist for my city's schol district, my first assignment required me to assist the school board and the mayor in making strategic decisions for the district future budget.
+With access to the students' math and reading scores and other information on the school each student attend, I analyzed the district-wide standardized test results to showcase district and each school performance.
+
+* The district's key metrics were analyzed. From the results, The district's overall performance has room for improvement. Most schools are doing pretty good in reading while the majority of schools are barely making it in math. To better analyze the overall results, diving into each schools information was helpful and necessary.
+
+* From the results, charter schools are leading the way, doing better in both reading and math. They do have a smaller number of students and sort of larger budget. More than 90 percent of charter students pass their district test, while only over 50 percent of district students make it thru. The schools with less than 2000 students, which include most charter schools, have an overall passing rate of above 85 percent. Surprisingly enough, the spending range per student less than $600 reported a higher overall passing percentage (about ninety percent) than those with a spending range of over $650 (about fifty percent overall passing). There seems to be a decent correlation between the type of school a student attend, the average spending on each student and their level of academic success.
+
+For future budget, the mayor and school board directors might want to consider the number of students admited in district schools, and adjust the per student budget to provide district students with adequate resources to improve the schools' performance. Or if they still have to admit large number of students, they might want to implement a system that will provide more academic assistance to students, which might imply a higher spending range per student.
